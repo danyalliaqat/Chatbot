@@ -1,1 +1,9 @@
 hi my name is danyal
+
+Commands:
+
+1) git clone <repository url>
+2) make changes to repository with the help of VS code.
+3)git add .
+4)git commit -m "your messge"
+5)git push
